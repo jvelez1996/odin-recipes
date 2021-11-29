@@ -1,1 +1,1 @@
-# odin-recipes
+so far i have learned a how to start building a website. I am sure it will be very bare bones, but i am excited to give it a try to continue building!
